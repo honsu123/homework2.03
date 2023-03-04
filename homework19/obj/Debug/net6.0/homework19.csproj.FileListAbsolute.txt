@@ -1,0 +1,15 @@
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.csproj.AssemblyReference.cache
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.AssemblyInfoInputs.cache
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.AssemblyInfo.cs
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.csproj.CoreCompileInputs.cache
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\bin\Debug\net6.0\homework19.exe
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\bin\Debug\net6.0\homework19.deps.json
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\bin\Debug\net6.0\homework19.runtimeconfig.json
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\bin\Debug\net6.0\homework19.dll
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\bin\Debug\net6.0\homework19.pdb
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.dll
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\refint\homework19.dll
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.pdb
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\homework19.genruntimeconfig.cache
+C:\Users\Игры\Desktop\не смотреть\homework2.03\homework19\obj\Debug\net6.0\ref\homework19.dll
